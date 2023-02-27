@@ -1,0 +1,6 @@
+A report generator is a computer program whose purpose is to take data from a source such as a database, XML stream or a spreadsheet, and use it to produce a document in a format which satisfies a particular human readership.
+Report generation functionality is almost always present in database systems,[citation needed where the source of the data is the database itself. It can also be argued that report generation is part of the purpose of a spreadsheet. Standalone report generators may work with multiple data sources and export reports to different document formats.
+Information systems theory specifies that information delivered to a target human reader must be timely, accurate and relevant. Report generation software targets the final requirement by making sure that the information delivered is presented in the way most readily understood by the target reader.
+An early report writer was part of the Nomad software which was developed in the 1970s and had its widest use was in the 1970s and 1980s.
+
+This computer-programming-related article is a stub. You can help Wikipedia by expanding it.
